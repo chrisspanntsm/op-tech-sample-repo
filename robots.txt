@@ -1,1 +1,33 @@
-test
+# robots.txt 
+
+# Sitemap location 
+Sitemap: https://www.travelsupermarket.com/sitemapindex.xml  
+Sitemap: http://app.wistia.com/sitemaps/32301.xml  
+
+User-agent: * 
+Disallow: /en-gb/adclick*
+Disallow: /c/extras/rail-and-ferries 
+Disallow: /c/ppc/ 
+Disallow: /c/cruises/offers*/ 
+Disallow: /c/extras/rail-and-ferries 
+Disallow: /blog/?s* 
+Disallow: /blog/contact-us/ 
+Disallow: /*?Source=ARO 
+Disallow: /*?Source=MSBRANDGOO1 
+Disallow: /*?Source=PET4 
+Disallow: /*?Source=SAV5 
+Disallow: /*source=GOO* 
+Disallow: /*SOURCE=GOO* 
+Disallow: /*Source=GOO* 
+Disallow: /beta/
+#Disallow: /en-gb/holidays/interstitial/
+Disallow: /en-gb/holidays/results/
+#Disallow: /en-gb/hotels/interstitial/
+Disallow: /en-gb/hotels/results/
+#Disallow: /en-gb/car-hire/interstitial/
+Disallow: /en-gb/car-hire/results/
+#Disallow: /en-gb/flights/interstitial/
+Disallow: /en-gb/flights/results/
+Disallow: /en-gb/flight-search/
+Disallow: /bin/proxy/*
+Disallow: /wp-content/*
