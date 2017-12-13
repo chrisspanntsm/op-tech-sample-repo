@@ -1,4 +1,4 @@
-# robots.txt 
+#ben test# # robots.txt 
 
 # Sitemap location 
 Sitemap: https://www.travelsupermarket.com/sitemapindex.xml  
